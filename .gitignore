@@ -1,2 +1,3 @@
-paddy-disease-classification.zip
-Paddy-disease-data/
+.python-version
+datasets/
+.ipynb_checkpoints/
