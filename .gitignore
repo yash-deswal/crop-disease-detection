@@ -1,3 +1,5 @@
 .python-version
 datasets/
 .ipynb_checkpoints/
+/Users/yash/Documents/GitHub/crop-disease-detection/PaddyDiseaseDetector/app/src/main/assets/paddy_disease_model.tflite
+/Users/yash/Documents/GitHub/crop-disease-detection/image-model-v2/plant_disease_prediction_model.h5
